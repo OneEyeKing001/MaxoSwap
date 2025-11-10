@@ -1,1 +1,1 @@
-# MaxoSwap
+# MaxoSwapRedesign swap interface
