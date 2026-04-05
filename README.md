@@ -2,3 +2,4 @@
 Add token list component
 Implement liquidity pool view
 Fix CSS grid layout
+Add price chart widget
