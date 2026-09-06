@@ -7,3 +7,4 @@ Implement settings panel
 Fix mobile responsiveness
 Add transaction confirmation modal
 Accessibility improvements
+Update README
